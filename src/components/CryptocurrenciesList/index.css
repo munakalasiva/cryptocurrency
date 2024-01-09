@@ -1,0 +1,23 @@
+.head {
+  color: white;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sty-row {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding: 10px;
+}
+.sty-row1 {
+  display: flex;
+}
+.para {
+  padding-right: 20px;
+}
+.cards {
+  border: 2px solid #00e7ff;
+}

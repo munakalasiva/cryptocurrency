@@ -1,0 +1,7 @@
+.bg-con {
+  background-color: black;
+  color: white;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
